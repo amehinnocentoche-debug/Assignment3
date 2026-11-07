@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style> body {
+        background-color: white;
+        color: 10%;
+        padding: 20px 40px;
+          }</style>
+        <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Scissor URL shortener landing page concept">
+  <title>project3</title>
+    </head>
+  <body>
+       <nav>
+        <table>
+            <tr>
+                <div>
+           <td ><img src="Logo.png" alt="scissor"></td>
+                           <td><a href="#my-urls"style="text-decoration: none;">My URLs</a></td>
+                <td><a href="#features" style="text-decoration: none;">Features</a></td>
+                <td><a href="#pricing"style="text-decoration: none;">Pricing</a></td>
+                <td><a href="#faqs"style="text-decoration: none;">FAQs</a></td>
+              <td><a href="#"style="text-decoration: none;">Log in</a></td>
+            
+            <td><a href="#shortener" style ="background-color: #1010ca;
+                color: white; border: radius 30px; border-radius: 30px;">Try for free</a></td>
+
+                </div>
+                </tr>
+                  </table>
+       </nav> 
+
+
+   <main>
+               <section id="home">
+            <h1>Optimize Your Online Experience with Our Advanced URL Shortening Solution</h1>
+            <p>Personalize your shortened URLs to align with your brand identity. Utilize custom slugs, branded links, and domain customization options to reinforce your brand presence and enhance user engagement.</p>
+            <div>
+                &nbsp;&nbsp;<a href="#shortener"style ="background-color: #1010ca;
+                color: white;
+                    border: radius 15px; text-decoration: none; border-radius: 30px;">Sign Up</a>&nbsp;&nbsp;
+                <a href="#features">Learn more</a>
+            </div>
+
+
+           <!guy Remember to add color>
+                 
+            <div style="position: relative; width: 100%; height: 50px; background: url('piture/frame22.jpg') center/cover no-repeat;">
+  <img src="frame22.jpg" width="250" alt="" style="display: block;">
+  <h2 style="position: absolute; bottom: : 0; left: 0; margin: 0; padding: 10px; color: black; background: none; z-index: 1; font-size: 10px;">
+    Seamlessly transform your long URLs into concise and shareable links with just a few clicks.
+  </h2>
+</div>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+        <table>
+        <tr>
+            <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+  <div>
+    <h2 style="margin: 0 0 8px;">One Stop. Four <a href="#choose">Possibilities</a></h2>
+  </div>
+
+  <div>
+    <h2 style="margin: 0 0 4px;">3M</h2>
+    <p style="margin: 0;">Active users</p>
+  </div>
+
+  <div>
+    <h2 style="margin: 0 0 4px;">60M</h2>
+    <p style="margin: 0;">Links and QR codes created</p>
+  </div>
+
+  <div>
+    <h2 style="margin: 0 0 4px;">1B</h2>
+    <p style="margin: 0;">Clicked and scanned connections</p>
+  </div>
+
+  <div>
+    <h2 style="margin: 0 0 4px;">300k</h2>
+    <p style="margin: 0;">App integrations</p>
+  </div>
+</div>
+       </tr>
+    </table>
+              <br>
+            </section>
+<section id="choose" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
+
+  <div>
+    <h2 style="margin: 0 0 8px;">Why choose <a href="#scissor">Scissors?</a></h2>
+    <p style="margin: 0;">Scissors is the hub of everything that has to do with your link management. We shorten your URLs, allow you to create custom ones for your personal, business and event usage. Our QR code creation, management and usage tracking with advanced analytics is second to none.</p>
+  </div>
+
+  <article>
+    <h3 style="margin: 0 0 8px;">URL Shortening</h3>
+    <p style="margin: 0;">Scissor allows you to shorten URLs of your business and events. Shorten your URL at scale.</p>
+  </article>
+
+  <article>
+    <h3 style="margin: 0 0 8px;">Custom URLs</h3>
+    <p style="margin: 0;">With Scissor, you can create custom URLs with the length you want. A solution for social and businesses.</p>
+  </article>
+
+  <article style="grid-column: 2;">
+    <h3 style="margin: 0 0 8px;">QR Codes</h3>
+    <p style="margin: 0;">Generate QR codes for your business and events. Bring your audience and customers to your doorstep with this scan-and-go solution.</p>
+  </article>
+
+  <article>
+    <h3 style="margin: 0 0 8px;">Data Analytics</h3>
+    <p style="margin: 0;">Receive data on the usage of your shortened URLs, custom URLs or generated QR codes.</p>
+  </article>
+
+
+</section>
+     
+        <<section id="pricing">
+          <h2 style="text-align: center;">A price perfect for your needs.</h2>
+          <p style="text-align: center; font-size: 10px">From catering for your personal, business, event and social needs, you can be rest assured we have you in mind in our pricing.</p>
+        
+          <div style="display: flex; justify-content: center; align-items: center; gap: 0; margin: 40px 0;">
+        
+            <article style="width: 260px; padding: 24px; background: #fff; border: 1px solid #ddd; border-radius: 12px;">
+              <h3 style="margin: 0 0 8px;">Basic</h3>
+              <h2 style="margin: 0 0 8px;">Free</h2>
+              <p>Free plan for all users</p>
+              <ul>
+                <li>Unlimited URL Shortening</li>
+                <li>Basic Link Analytics</li>
+                <li>Customizable Short Links</li>
+                <li>Standard Support</li>
+                <li>Ad-supported</li>
+              </ul>
+            </article>
+        
+            <article style="position: relative; z-index: 2; width: 280px; padding: 32px 24px; background: #fff; border: 2px solid #0066ff; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transform: scale(1.08); margin: 0 -10px;">
+              <h3 style="margin: 0 0 8px;">Professional</h3>
+              <h2 style="margin: 0 0 8px;">$15/month</h2>
+              <p>Ideal for business creators</p>
+              <ul>
+                <li>Enhanced Link Analytics</li>
+                <li>Custom Branded Domains</li>
+                <li>Advanced Link Customization</li>
+                <li>Priority Support</li>
+                <li>Ad-free Experience</li>
+              </ul>
+            </article>
+        
+            <article style="width: 260px; padding: 24px; background: #fff; border: 1px solid #ddd; border-radius: 12px;">
+              <h3 style="margin: 0 0 8px;">Teams</h3>
+              <h2 style="margin: 0 0 8px;">$25/month</h2>
+              <p>Share with up to 10 users</p>
+              <ul>
+                <li>Team Collaboration</li>
+                <li>User Roles and Permissions</li>
+                <li>Enhanced Security</li>
+                <li>API Access</li>
+                <li>Dedicated Account Manager</li>
+              </ul>
+            </article>
+    
+        
+          </div>
+<!mak i no forget>        
+          <div style="display:flex; flex-wrap:nowrap; align-items:center; gap:12px;">
+  <h4 style="margin:0; display:inline-block;">
+    <a href="#" style="display:inline-block; white-space:nowrap; padding:10px 20px; border:2px solid #1a73e8; border-radius:8px; color:#1a73e8; text-decoration:none;">Get Custom Pricing</a>
+  </h4>
+  <h4 style="margin:0; display:inline-block;">
+    <a href="#shortener" style="display:inline-block; white-space:nowrap; padding:10px 20px; border:2px solid #1a73e8; border-radius:8px; background:#1a73e8; color:#fff; text-decoration:none;">Select Pricing</a>
+  </h4>
+</div>
+        </section>
+
+
+         <section id="shortener" >
+<section style="position:relative; width:100%; height:500px;">
+  <img src="Deskto.jpg" alt="ff" style="width:100%; height:100%; object-fit:cover; display:block;">
+
+  <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:90%; max-width:420px; background:#fff; padding:24px; border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.25); box-sizing:border-box;">
+    <h2 style="margin:0 0 16px; text-align:center;">Shorten Your URL</h2>
+
+    <form action="#" method="post">
+      <label for="url" style="display:block; margin-bottom:4px;">Paste URL here</label>
+      <input type="url" id="url" name="url" placeholder="Paste URL here..." required style="width:100%; padding:10px; margin-bottom:12px; border:1px solid #ccc; border-radius:6px; box-sizing:border-box;">
+
+      <label for="domain" style="display:block; margin-bottom:4px;">Choose Domain</label>
+      <select id="domain" name="domain" style="width:100%; padding:10px; margin-bottom:12px; border:1px solid #ccc; border-radius:6px; box-sizing:border-box;">
+        <option value="">Choose Domain</option>
+        <option value="scissor.link">scissor.link</option>
+        <option value="short.ly">short.ly</option>
+      </select>
+
+      <label for="alias" style="display:block; margin-bottom:4px;">Type Alias here</label>
+      <input type="text" id="alias" name="alias" placeholder="Type Alias here" style="width:100%; padding:10px; margin-bottom:16px; border:1px solid #ccc; border-radius:6px; box-sizing:border-box;">
+
+      <button type="submit" style="width:100%; padding:12px; background:#1a73e8; color:#fff; border:none; border-radius:6px; font-size:16px; cursor:pointer;">Trim URL</button>
+
+      <p style="font-size:12px; color:#666; text-align:center; margin:12px 0 0;">By clicking TrimURL, I agree to the Terms of Service, Privacy Policy and Use of Cookies.</p>
+    </form>
+  </div>
+</section>
+
+<section id="faqs">
+             <h2>FAQs</h2>
+           
+             <article style="padding:16px 0; border-top:1px solid #ccc; border-bottom:1px solid #ccc;">
+               <h3>How does URL shortening work?</h3>
+               <p>URL shortening works by taking a long URL and creating a shorter, condensed version that redirects to the original URL. When a user clicks on the shortened link, they are redirected to the intended destination.</p>
+             </article>
+           
+             <article style="padding:16px 0; border-bottom:1px solid #ccc;">
+               <h3>Is it necessary to create an account to use the URL shortening service?</h3>
+               <p>No. You can shorten a link without creating an account.</p>
+             </article>
+           
+             <article style="padding:16px 0; border-bottom:1px solid #ccc;">
+               <h3>Are the shortened links permanent? Will they expire?</h3>
+               <p>Links remain active according to the service's link-retention policy.</p>
+             </article>
+           
+             <article style="padding:16px 0; border-bottom:1px solid #ccc;">
+               <h3>Are there any limitations on the number of URLs I can shorten?</h3>
+               <p>Usage limits depend on your subscription plan.</p>
+             </article>
+           
+             <article style="padding:16px 0; border-bottom:1px solid #ccc;">
+               <h3>Can I customize the shortened URLs to reflect my brand or content?</h3>
+               <p>Yes. You can customize shortened URLs using branded domains and custom aliases.</p>
+             </article>
+           
+             <article style="padding:16px 0; border-bottom:1px solid #ccc;">
+               <h3>Can I track the performance of my shortened URLs?</h3>
+               <p>Yes. Analytics can provide information about link clicks and engagement.</p>
+             </article>
+           
+             <article style="padding:16px 0; border-bottom:1px solid #ccc;">
+               <h3>How secure is the URL shortening service? Are the shortened links protected against spam or malicious activity?</h3>
+               <p>Security tools can help detect suspicious links, but users should always verify unfamiliar URLs.</p>
+             </article>
+           
+             <article style="padding:16px 0; border-bottom:1px solid #ccc;">
+               <h3>What is a QR code and what can it do?</h3>
+               <p>A QR code is a scannable image that can open a website or display information when scanned.</p>
+             </article>
+           
+             <article style="padding:16px 0; border-bottom:1px solid #ccc;">
+               <h3>Is there an API available for integrating the URL shortening service into my own applications or websites?</h3>
+               <p>API access can allow developers to integrate URL shortening into their applications and websites.</p>
+             </article>
+           </section>
+           
+  
+            
+<main>
+
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="padding:16px;">
+      <div style="margin-top:12px; display:flex; flex-direction:column; gap:6px;">
+        <a href="#">Twitter</a>
+        <a href="#">Instagram</a>
+        <a href="#">LinkedIn</a>
+        <a href="#">Facebook</a>
+      </div>
+    </td>
+               </main>
+                  <div>
+            <section id="scissor">
+           <td><h3 >Why Scissor?</h3>
+            <ul>
+                <li><a href="#">Scissor 101</a></li>
+                <li><a href="#">Integrations and API</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+            </ul></td>
+        </div>
+        <div>
+           <td> <h3>Solutions</h3>
+            <ul>
+                <li><a href="#">Social Media</a></li>
+                <li><a href="#">Digital Marketing</a></li>
+                <li><a href="#">Customer Service</a></li>
+                <li><a href="#">For Developers</a></li>
+            </ul>
+                </td>
+        </div>
+        <div>
+            <td><h3>Products</h3>
+            <ul>
+                <li><a href="#">Link Management</a></li>
+                <li><a href="#">QR Codes</a></li>
+                <li><a href="#">Link-in-bio</a></li>
+            </ul>
+        </td>
+        </div>
+        <div>
+            <td><h3>Company</h3>
+            <ul>
+                <li><a href="#">About Scissor</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="#">Partners</a></li>
+                <li><a href="#">Press</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Reviews</a></li>
+            </ul></td>
+        </div>
+    <table>
+        <tr>
+        <div>
+            <td><h3>Resources</h3>
+            <ul>
+<li><a href="#">Blog</a></li>
+                <li><a href="#">Resource Library</a></li>
+                <li><a href="#">Developers</a></li>
+                <li><a href="#">App Connections</a></li>
+                <li><a href="#">Support</a></li>
+                <li><a href="#">Trust Center</a></li>
+                <li><a href="#">Browser Extension</a></li>
+                <li><a href="#">Mobile App</a></li>
+            </ul></td>
+        </div>
+        <div>
+           <td> <h3>Features</h3>
+            <ul>
+                <li><a href="#">Branded Links</a></li>
+                <li><a href="#">Mobile Links</a></li>
+                <li><a href="#">Campaigns</a></li>
+                <li><a href="#">Management and Analytics</a></li>
+                <li><a href="#">QR Code Generation</a></li>
+            </ul></td>
+        </div>
+        <div>
+            <td><h3>Legal</h3>
+            <ul>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Cookie Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">Acceptable Use Policy</a></li>
+                <li><a href="#">Code of Conduct</a></li>
+            </ul></td></div>
+        </tr>
+        </table> 
+        <footer>
+            <div>
+            <p>Terms of Service | Security | Scissor 2023</p>
+        </div>
+    </footer>
+</html>
